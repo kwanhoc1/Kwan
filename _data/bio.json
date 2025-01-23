@@ -2,17 +2,17 @@
   "basics": {
     "name": "Kwanho Chun",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://raw.githubusercontent.com/kwanhoc1/Kwan/refs/heads/main/img/kwanho.jpg",
     "email": "kwanhoc@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://kwanhoc1.github.io/Kwan/",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "https://kwanhoc1.github.io/Kwan/" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/kwanho-chun-b673a3347/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "kwanhoc1", "url": "https://kwanhoc1.github.io/" },
+      { "network": "linkedin", "username": "iamkwanhoc", "url": "https://www.linkedin.com/in/kwanho-chun-b673a3347/" },
+      { "network": "twitter", "username": "kwanhoc", "url": "http://twitter.com/" },
+      { "network": "instagram", "username": "wevqd", "url": "http://instagram.com/wevqd" }
     ]
   },
   "interests": [
@@ -20,7 +20,7 @@
     { "name": "Neuromorphic Computing" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Video Game Development" }
   ],
   "skills": [
     {
@@ -35,7 +35,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
