@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/image.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/image.png">
 
 ## Complete Newbie
 
