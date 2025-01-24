@@ -8,12 +8,12 @@ published: true
 labels:
   - Lisp
   - GitHub
-summary: "A motion capturing game playable on ScreenX which I developed with a group for ICS 486."
+summary: "A motion capturing game which me and my group made for ICS 486."
 ---
 
 <img class="img-fluid" src="../img/holeindawall.jpg">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Hole in the Wall is a motion capturing game made for ScreenX. 
 
 To give you a flavor of the game, here is an excerpt from one run:
 
