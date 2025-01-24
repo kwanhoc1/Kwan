@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/holeindawall.jpg
+image: img/holeinthewall.png
 title: "Hole in the Wall"
 date: 2024
 published: true
