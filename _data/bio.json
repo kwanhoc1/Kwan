@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "kwanhoc1", "url": "https://kwanhoc1.github.io/" },
+      { "network": "github", "username": "kwanhoc1", "url": "https://github.com/kwanhoc1" },
       { "network": "linkedin", "username": "iamkwanhoc", "url": "https://www.linkedin.com/in/kwanho-chun-b673a3347/" },
       { "network": "twitter", "username": "kwanhoc", "url": "http://twitter.com/" },
       { "network": "instagram", "username": "wevqd", "url": "http://instagram.com/wevqd" }
@@ -17,8 +17,6 @@
   },
   "interests": [
     { "name": "Drawing" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
     { "name": "Robotics" },
     { "name": "Video Game Development" }
   ],
@@ -37,7 +35,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-08-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,12 +43,12 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Ocean Star HI",
+      "position": "Free Diving/Snorkeling",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2023-09-01",
+      "endDate": "2024-11-20",
+      "summary": "Teaching the tourists how to snorkel",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
