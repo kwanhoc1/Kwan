@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Essayyyyyy"
+title: "What is TypeScript?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-23
 published: true
@@ -9,17 +9,11 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/image.png">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Complete Newbie
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
+When I first chose to take ICS 314, I obviously knew that I was signing up to learn about software engineering. But I didn't clearly know the difference between software engineering and computer science. It means that I didn't know how I would be learning software engineering. I still don't know for sure, but learning to use TypeScript gave me an idea of software engineering. Using TypeScript for the first time, I felt that it is more intuitive than other programming language. I'm assuming that with more intuitive language, we are to learn hard concepts of software engineering more easily. 
 
 ## In the context of programming
 
