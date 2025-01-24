@@ -8,7 +8,7 @@ published: true
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game that I developed for ICS 486."
+summary: "A motion capturing game playable on ScreenX which I developed with a group for ICS 486."
 ---
 
 <img class="img-fluid" src="../img/holeindawall.jpg">
