@@ -6,8 +6,8 @@ title: "Hole in the Wall"
 date: 2024
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Unity
+  - ScreenX
 summary: "A motion capturing game which me and my group made for ICS 486."
 ---
 
