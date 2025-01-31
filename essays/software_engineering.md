@@ -9,8 +9,6 @@ labels:
   - Software Engineering
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/">
-
 ## "Soft"ware
 What do software engineers do? Software engineers design, develop, and maintain softwares used on electronic devices. Now, what is a software? A software is a program developed to use computer efficiently. The goal of all software engineers is to develop efficient softwares. When someone makes a job look easy, it's either that someone is highly skilled or the job is actually easy. Making the job easy, that is software engineer's job. Software engineers are taking the hard part to make software users' job easy. That's how I see software engineering.
 
