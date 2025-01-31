@@ -21,7 +21,8 @@ Title: "Why does using float instead of int give me different results when all o
 
 Body: "I'm writing a function in C that performs division. When I use integer variables, the result is as expected. However, when I change the variables to float, the results are slightly off. Here's the code:
 
-`#include <stdio.h>
+```
+#include <stdio.h>
 
 int main() {
     int a = 5, b = 2;
@@ -30,7 +31,8 @@ int main() {
     float x = 5.0, y = 2.0;
     printf("%f\n", x / y); // Outputs 2.500000
     return 0;
-}`
+}
+```
 
 Can someone explain why the float division is not giving me an exact integer result?"
 
