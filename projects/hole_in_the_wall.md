@@ -15,4 +15,7 @@ summary: "A motion capturing game which me and my group made for ICS 486."
 
 Hole in the Wall is a motion capturing game made for ScreenX. 
 
+## How to Play 
+You simply have to go through hole in the wall by posing according to the shape of the hole.
+
 
