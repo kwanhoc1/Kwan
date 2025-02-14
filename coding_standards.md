@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9f0ae89d-cd54-43cc-a4d7-cddf0edf38ea)---
+---
 layout: essay
 type: essay
 title: "What Makes Our Lives Easier"
