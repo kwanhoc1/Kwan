@@ -8,7 +8,7 @@ published: true
 labels:
   - Software Engineering
 ---
-<img width="400px" class="rounded float-start pe-4" src="../img/See-what-sticks.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/See-what-sticks.png">
 
 ## Makes Your Life Easier
 Many programmers, especially those new to the field, tend to think of coding standards as arbitrary rules that get in the way of their free and wild coding style. That is absolutely not true. Coding standards are the key to making a programmer's life easier. Without coding standards, programmers would have to read thousands of lines of code from top to bottom just to find a single error. While these conventions do contribute to code readability, they represent only a small fraction of what coding standards truly offer. In my view, coding standards are among the most impactful software engineering techniques, essential for improving code quality, maintainability, and even for deepening one’s understanding of a programming language.
