@@ -21,7 +21,6 @@ Building a website from scratch without using a UI framework is like constructin
 ## U and I
 The experience derived from the UI is commonly known as UX. The UI framework that Bootstrap 5 provides makes it easy to design a webpage, but it does not guarantee a good user experience. When using a UI framework, UX is one of the most important things to consider. Even when relying on a UI framework, you should still put as much effort into designing the webpage as if you were building it from scratch. You should strive to understand the intent behind every part of the provided UI framework.
 
-![image](https://github.com/user-attachments/assets/95547c37-178e-41fb-9b80-acf92fa07b6e)
-
+<img width="400px" src="https://github.com/user-attachments/assets/95547c37-178e-41fb-9b80-acf92fa07b6e">
 
 (Used ChatGPT to check grammar)
