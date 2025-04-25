@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns?"
+title: "Essence of Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-24
 published: true
@@ -9,16 +9,15 @@ labels:
   - Engineering
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/image.png">
+<img width="400px" class="rounded float-start pe-4" src="![image](https://github.com/user-attachments/assets/3a54c2dd-d9d1-4d5b-9141-60d2ffe71d88)
+">
 
-## As a Newbie
+## Essence of Software Engineering
+Imagine building a house. Every home needs a foundation, walls, windows, and a roof, but the specifics of those elements—how they are arranged, what materials they’re made of—vary depending on the context. Similarly, in software design, design patterns are like architectural blueprints—generic solutions to common problems that can be adapted to different situations. Truely the essence of software engineering.
 
-When I first chose to take ICS 314, I obviously knew that I was signing up to learn about software engineering. But I didn't clearly know the difference between software engineering and computer science. It means that I didn't know how I would be learning software engineering. I still don't know for sure, but learning to use TypeScript gave me an idea of software engineering. Using TypeScript for the first time, I felt that it is more intuitive than other programming language. I'm assuming that with more intuitive language, we are to learn hard concepts of software engineering more easily. 
+Design patterns aren't pieces of code you simply copy-paste into your project. They're guidelines or templates. They are your map application on your phone when going to a place you have never been. They help developers structure code in ways that are maintainable, efficient, and scalable. They aren’t silver bullets, but when applied thoughtfully, they can dramatically improve the flexibility and clarity of your software.
 
-## Intuitiveness
+## Getting Through the Jungle
+But why does using design patterns matter? Beyond merely solving problems, they allow for better communication between developers. Just as a blueprint speaks the same language to any architect, design patterns give developers a shared vocabulary for tackling complex problems. Instead of explaining every tiny detail, you can refer to the pattern, saving time and ensuring everyone on the team is on the same page.
 
-A programming language being intuitive means that it can be learned easily. But if there are pros, there are always cons. The intuitive nature of TypeScript is good for the people who just started programming. But the factor which helped programming beginners might become a difficulty for the programmers who has only shallow experiences of other programming languages. Here's an example; C is a language that we all get to learn in ICS 212. There are way more data types in C compared to TypeScript and when a programmer who only has experienced C gets confused because they would have to adapt to more simple and intuitive data types. This assumption might apply to someone, but surely not everyone. For the programmers who have more than a few programming language experience, TypeScript should just be one of the easy languages.
-
-## Good or Bad?
-
-Like I mentioned earlier, there are always pros and cons. If a programming language is purely good, everyone would only use that sinlge language. If a programming language is purely bad, no one would use it for any purpose. Neither of them are the case of TypeScript. Simple and intuitive style of TypeScript makes it easy to learn for everyone. It also lets us try more complicated and bold attempts with the code, just like the image above. But also because of its simple and intuitive style, TypeScript might not be eligible for some programs. These factors can be found from other programming languages as well. All the programming languages being used have their own specialties. I wouldn't call TypeScript good or bad. It is useful in its own way. 
+In essence, design patterns are not just about solving problems—they're about creating a consistent framework for your solutions, making your code more readable, reusable, and resilient to change. As my projects evolve, I continue to explore new patterns, each time gaining a deeper appreciation for their power in creating well-designed software. Without design patterns, I would be lost in the jungle of codes. 
