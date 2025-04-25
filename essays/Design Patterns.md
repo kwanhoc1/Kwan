@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "What is TypeScript?"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-23
+date: 2025-04-24
 published: true
 labels:
   - Engineering
