@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "What is TypeScript?"
+title: "Design Patterns?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-24
 published: true
