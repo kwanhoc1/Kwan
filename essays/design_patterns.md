@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-![image](https://github.com/user-attachments/assets/3adb8fc1-8494-47b0-bad2-91ee65e12416)
+<img width="400px" class="rounded float-start pe-4" src="../img/image.png">
 
 ## Essence of Software Engineering
 Imagine building a house. Every home needs a foundation, walls, windows, and a roof, but the specifics of those elements—how they are arranged, what materials they’re made of—vary depending on the context. Similarly, in software design, design patterns are like architectural blueprints—generic solutions to common problems that can be adapted to different situations. Truely the essence of software engineering.
