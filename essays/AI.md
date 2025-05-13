@@ -39,7 +39,7 @@ Asking or answering a smart-question:
 I did not use AI to ask a smart-question, because I felt that formulating a smart question requires a deep understanding of what I don’t know and the ability to analyze the problem on my own.
 
 Coding example:
-
+I used AI when I needed some examples of the code I was trying to write.
 
 Explaining code:
 When I couldn’t understand a line of code, asked ChatGPT to explain what exactly the code was doing. 
