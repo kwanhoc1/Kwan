@@ -19,7 +19,7 @@ Belonging is a story-driven game that focuses on this fundamental human need of 
 
 More detailed information can be found in this link:
 
-[Belonging](https://just-making-kool-renders.github.io/)
+[https://just-making-kool-renders.github.io/](https://just-making-kool-renders.github.io/)
 
 
 A group project done for ICS 485.
