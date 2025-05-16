@@ -13,7 +13,7 @@ labels:
 summary: "A platform to find Study Palz within UH Manoa ICS department."
 ---
 
-<img class="img-fluid" src="../img/study_palz.jpg">
+<img class="img-fluid" src="../img/study_palz.png">
 
 
 UH students often struggle to complete homework efficiently or understand material deeply—mainly because they study alone. StudyPalz helps fix that by making it easy for students to self-organize real-time, face-to-face study groups on campus.
