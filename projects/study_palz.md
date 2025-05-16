@@ -22,5 +22,4 @@ More detailed information can be found in this link:
 [https://study-palz.github.io/](https://study-palz.github.io/)
 
 
-
-A final project done for ICS 314 with a group: Dominic Molina, Zion Tamashiro, Roger Liu, Kwanho Chun
+A group project done for ICS 314.
