@@ -13,8 +13,7 @@ labels:
 summary: "Belonging is a game that is a blend of top-down view and 2D platformer."
 ---
 
-https://youtu.be/OtlVA214Uug?si=Emf4uJ_T6KEny7IG
-
+[![IMAGE ALT TEXT HERE](https://youtu.be/OtlVA214Uug?si=Emf4uJ_T6KEny7IG.jpg)](https://youtu.be/OtlVA214Uug?si=Emf4uJ_T6KEny7IG)
 
 More detailed information can be found in this link:
 https://study-palz.github.io/
