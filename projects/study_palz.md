@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/study_palz.png
+image: img/study_palz_logo.png
 title: "Study Palz"
 date: 2025
 published: true
