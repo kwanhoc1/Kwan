@@ -18,7 +18,8 @@ summary: "Belonging is a game that is a blend of top-down view and 2D platformer
 Belonging is a story-driven game that focuses on this fundamental human need of belongingness in a blend of top-down view and 2D platformer. Belonging was developed using Unity.
 
 More detailed information can be found in this link:
-https://just-making-kool-renders.github.io/
+
+[Belonging](https://just-making-kool-renders.github.io/)
 
 
 A group project done for ICS 485.
